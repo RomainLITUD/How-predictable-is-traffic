@@ -1,6 +1,6 @@
 # How Predictable is Traffic Congestion
 
-- This is the source code of the paper manuscript: **<How predictable are macroscopic traffic states: a perspective of uncertainty quantification>**
+- This is the source code of the paper manuscript: **How predictable are macroscopic traffic states: a perspective of uncertainty quantification**
 
 - The manuscript is still under review.
 
